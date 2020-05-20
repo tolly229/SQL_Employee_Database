@@ -1,5 +1,5 @@
 # SQL_Employee_Analysis
-This project analyzes data from multiple CSVs by creating, storing, and querying data in PostgreSQL.
+This project analyzes data from multiple CSVs by creating, storing, and querying data in PostgreSQL.<br><br>
 
 ## Tasks:
 To complete this assignment, the following tasks were performed:
@@ -20,9 +20,11 @@ To complete this assignment, the following tasks were performed:
 ![Code2](./Code2.JPG)
 ![Code3](./Code3.JPG)
 
+
 ## Tools
 1. PostgreSQL 
 2. pgAdmin
+
 
 ## Procedures
 1. Clone this repository
