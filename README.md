@@ -2,8 +2,7 @@
 This project analyzes data from multiple CSVs by creating, storing, and querying data in PostgreSQL.
 
 ## Tasks:
-To complete this assignment, the following tasks were performed:<br><br>
-This project shows the following skills:<br><br>
+To complete this assignment, the following tasks were performed:
 * Create a localhost connection to a PostgreSQL server and have successfully connect to it.<br>
 * Create, use, and populate a SQL database with data.<br>
 * Create, populate, and select data from a SQL table.<br>
